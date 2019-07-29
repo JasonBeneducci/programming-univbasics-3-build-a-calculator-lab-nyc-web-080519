@@ -19,8 +19,8 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  number = num1 % num2
-  puts number
+  remainder = num1 % num2
+  puts remainder
 end
 
 def square_root(num)
